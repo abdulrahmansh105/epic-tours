@@ -4,7 +4,7 @@ const playfair = "font-playfair italic font-semibold";
 
 export default function MainHero() {
   return (
-    <div className="bg-[url('/assets/imgs/upscaled-image(7).png')] bg-cover bg-center h-screen w-full">
+    <div className="bg-[url('/assets/imgs/hero-bg.png')] bg-cover bg-center h-screen w-full">
       
 
       <div className="h-full flex flex-col justify-between">
