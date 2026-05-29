@@ -1,0 +1,25 @@
+<Service
+        img=""
+        
+        bg={dark}
+        
+        imgBg={darkImg}
+
+        animation={inScreen ? darkAnim : "opacity-0"}
+        
+        title=""
+        
+        description="" />
+
+        <Service
+        img=""
+        
+        bg={light}
+        
+        imgBg={lightImg}
+        
+        animation={inScreen ? lightAnim : "opacity-0"}
+        
+        title=""
+        
+        description="" />
